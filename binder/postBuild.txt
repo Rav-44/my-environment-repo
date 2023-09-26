@@ -1,4 +1,2 @@
 jupyter serverextension enable --py nbgitpuller --sys-prefix
-git clone https://github.com/Rav-44/my-content-repo.git
-pip install voila
 voila linear_notebook.ipynb
