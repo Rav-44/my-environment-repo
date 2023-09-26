@@ -1,3 +1,2 @@
 git clone https://github.com/Rav-44/my-content-repo.git
-pip install nbgitpuller 
 voila linear_notebook.ipynb
