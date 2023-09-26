@@ -1,2 +1,1 @@
-git clone https://github.com/Rav-44/my-content-repo.git
-voila linear_notebook.ipynb
+jupyter serverextension enable --py nbgitpuller --sys-prefix
