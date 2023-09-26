@@ -1,1 +1,2 @@
 jupyter serverextension enable --py nbgitpuller --sys-prefix
+voila linear_notebook.ipynb
